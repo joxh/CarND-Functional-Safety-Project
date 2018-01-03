@@ -1,5 +1,18 @@
 # Functional Safety of a Lane Assistance System
 
+The completed pdf files can be found in the following files, which are located in the root directory of the repo:
+
+* 01_SafetyPlan_LaneAssistance.pdf
+
+* 02_HazardAnalysisAndRiskAssessment.pdf
+
+* 03_FunctionalSafetyConcept_LaneAssistance.pdf
+
+* 04_TechnicalSafetyConcept_LaneAssistance.pdf
+
+* 05_SoftwareRequirementsAndArchitecture_LaneAssistance.pdf
+
+## Instructions
 
 
 Your job will be to create functional safety documents based on what you learned in the lessons. These documents are simplified versions of what a functional safety manager would create as part of a safety case. A safety case is a collection of documents proving that a project has made a vehicle safer.
